@@ -3,7 +3,7 @@ import Image from 'next/image';
 import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
-import linus from '../assets/images/linus.png'
+import linus from '../assets/images/linus.jpg';
 
 const name = 'Your Name';
 export const siteTitle = 'Next.js Sample Website';
